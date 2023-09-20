@@ -28,10 +28,6 @@
 	white-space: nowrap;
   }
 
-  .logo_suite_line {
-	margin-bottom: 8px;
-  }
-
   .logo_suite_line:last-of-type {
 	margin-bottom: 0;
   }

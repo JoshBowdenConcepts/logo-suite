@@ -31,7 +31,6 @@ export const LogoSuite = ({ repeatingLines = 0, ...rest }: LogoSuiteProps) => {
 			return (
 			  <div
 				key={i}
-				className="logo_suite_line"
 			  >
 				<Marquee pauseOnHover speed={getRandomInteger(22, 40)}>{renderBrands(shuffledBrands)}
 				{renderBrands(shuffledBrands)}</Marquee>
