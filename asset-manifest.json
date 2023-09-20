@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/logo-suite/static/css/main.6cb772f6.css",
-    "main.js": "/logo-suite/static/js/main.c75834e1.js",
+    "main.css": "/logo-suite/static/css/main.c42f03bf.css",
+    "main.js": "/logo-suite/static/js/main.b98fce25.js",
     "static/js/787.08a0f182.chunk.js": "/logo-suite/static/js/787.08a0f182.chunk.js",
     "static/media/postgresql.svg": "/logo-suite/static/media/postgresql.b8b43b3e533ed33619eb7699a2663568.svg",
     "static/media/snowflake.svg": "/logo-suite/static/media/snowflake.006a3be34b9b6f664c29b9099febd829.svg",
@@ -16,12 +16,12 @@
     "index.html": "/logo-suite/index.html",
     "static/media/oracle.svg": "/logo-suite/static/media/oracle.b5557ae21ecfa871b1d841285a43673c.svg",
     "static/media/mongodb.svg": "/logo-suite/static/media/mongodb.9d38ca11bc2bc9b4e195a832b7731836.svg",
-    "main.6cb772f6.css.map": "/logo-suite/static/css/main.6cb772f6.css.map",
-    "main.c75834e1.js.map": "/logo-suite/static/js/main.c75834e1.js.map",
+    "main.c42f03bf.css.map": "/logo-suite/static/css/main.c42f03bf.css.map",
+    "main.b98fce25.js.map": "/logo-suite/static/js/main.b98fce25.js.map",
     "787.08a0f182.chunk.js.map": "/logo-suite/static/js/787.08a0f182.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb772f6.css",
-    "static/js/main.c75834e1.js"
+    "static/css/main.c42f03bf.css",
+    "static/js/main.b98fce25.js"
   ]
 }
