@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cb772f6.css",
-    "main.js": "/static/js/main.a7f3f437.js",
-    "static/js/787.08a0f182.chunk.js": "/static/js/787.08a0f182.chunk.js",
-    "static/media/postgresql.svg": "/static/media/postgresql.b8b43b3e533ed33619eb7699a2663568.svg",
-    "static/media/snowflake.svg": "/static/media/snowflake.006a3be34b9b6f664c29b9099febd829.svg",
-    "static/media/close.svg": "/static/media/close.5f9864c1e3c89cdf819e46ea766adba8.svg",
-    "static/media/bigquery.svg": "/static/media/bigquery.72ad7df77c53514f609ff7a660933c7e.svg",
-    "static/media/salesforce.svg": "/static/media/salesforce.769a132c4b832504e7fbb7f6d84007c4.svg",
-    "static/media/jira.svg": "/static/media/jira.fb6fce1e45ca630d75000ee32c96dfec.svg",
-    "static/media/couchdb.svg": "/static/media/couchdb.924f7041db8b52822794ccf5706d6809.svg",
-    "static/media/twilio.svg": "/static/media/twilio.4133301c0f3f98b9be9bc7d814a584f4.svg",
-    "static/media/google-sheets.svg": "/static/media/google-sheets.c6fc19a8ed6e7302d4d2890c98a5def7.svg",
-    "static/media/stripe.svg": "/static/media/stripe.762c3c3587653ede3780c42756b2acb9.svg",
-    "index.html": "/index.html",
-    "static/media/oracle.svg": "/static/media/oracle.b5557ae21ecfa871b1d841285a43673c.svg",
-    "static/media/mongodb.svg": "/static/media/mongodb.9d38ca11bc2bc9b4e195a832b7731836.svg",
-    "main.6cb772f6.css.map": "/static/css/main.6cb772f6.css.map",
-    "main.a7f3f437.js.map": "/static/js/main.a7f3f437.js.map",
-    "787.08a0f182.chunk.js.map": "/static/js/787.08a0f182.chunk.js.map"
+    "main.css": "/logo-suite/static/css/main.6cb772f6.css",
+    "main.js": "/logo-suite/static/js/main.c75834e1.js",
+    "static/js/787.08a0f182.chunk.js": "/logo-suite/static/js/787.08a0f182.chunk.js",
+    "static/media/postgresql.svg": "/logo-suite/static/media/postgresql.b8b43b3e533ed33619eb7699a2663568.svg",
+    "static/media/snowflake.svg": "/logo-suite/static/media/snowflake.006a3be34b9b6f664c29b9099febd829.svg",
+    "static/media/close.svg": "/logo-suite/static/media/close.5f9864c1e3c89cdf819e46ea766adba8.svg",
+    "static/media/bigquery.svg": "/logo-suite/static/media/bigquery.72ad7df77c53514f609ff7a660933c7e.svg",
+    "static/media/salesforce.svg": "/logo-suite/static/media/salesforce.769a132c4b832504e7fbb7f6d84007c4.svg",
+    "static/media/jira.svg": "/logo-suite/static/media/jira.fb6fce1e45ca630d75000ee32c96dfec.svg",
+    "static/media/couchdb.svg": "/logo-suite/static/media/couchdb.924f7041db8b52822794ccf5706d6809.svg",
+    "static/media/twilio.svg": "/logo-suite/static/media/twilio.4133301c0f3f98b9be9bc7d814a584f4.svg",
+    "static/media/google-sheets.svg": "/logo-suite/static/media/google-sheets.c6fc19a8ed6e7302d4d2890c98a5def7.svg",
+    "static/media/stripe.svg": "/logo-suite/static/media/stripe.762c3c3587653ede3780c42756b2acb9.svg",
+    "index.html": "/logo-suite/index.html",
+    "static/media/oracle.svg": "/logo-suite/static/media/oracle.b5557ae21ecfa871b1d841285a43673c.svg",
+    "static/media/mongodb.svg": "/logo-suite/static/media/mongodb.9d38ca11bc2bc9b4e195a832b7731836.svg",
+    "main.6cb772f6.css.map": "/logo-suite/static/css/main.6cb772f6.css.map",
+    "main.c75834e1.js.map": "/logo-suite/static/js/main.c75834e1.js.map",
+    "787.08a0f182.chunk.js.map": "/logo-suite/static/js/787.08a0f182.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cb772f6.css",
-    "static/js/main.a7f3f437.js"
+    "static/js/main.c75834e1.js"
   ]
 }
