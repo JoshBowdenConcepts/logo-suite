@@ -1,0 +1,80 @@
+.brand_modal {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 10;
+	width: 90%;
+	max-height: 100%;
+	box-shadow: 0px 6px 8px 0px rgba(0, 0, 0, 0.04), 0px 2px 4px 0px rgba(0, 0, 0, 0.10);
+	overflow-y: hidden;
+	border-radius: 8px;
+}
+
+.brand_modal_content {
+	padding: 52px 50px 52px 32px;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	align-items: flex-start;
+	background: white;
+	position: relative;
+}
+
+.brand_modal_close {
+	position: absolute;
+	top: 24px;
+	right: 24px;
+	border: none;
+	background: transparent;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+}
+
+.brand_modal_icon {
+	height: 63px;
+	width: 63px;
+}
+
+.brand_modal_header {
+	margin: 0 0 6px 0;
+	color: #3D3D3D;
+	font-family: Inter;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+}
+
+.brand_model_description_container {
+	display: none;
+	gap: 8px;
+}
+
+.brand_modal_description {
+	margin: 0 0 ;
+	color: #6A6A6A;
+	font-family: Inter;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+@media screen and (min-width: 769px) {
+    /* I am implementing this change on mobile so that we can see a bit more of the text and it doesn't grow quite as much. Due to to the nature of the content I would actually implement a truncation and then link to the larger page */
+	.brand_modal_content {
+		flex-direction: row;
+	}
+
+	/* Increasing modal size on smaller breakpoints to show more text */
+	.brand_modal {
+		width: 80%;
+	}
+
+	/* Hiding description on mobile because of lack of room */
+	.brand_model_description_container {
+		display: grid;
+	}
+}

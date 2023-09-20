@@ -1,0 +1,37 @@
+/* TODO: maybe try this instead */
+
+.logo_suite_container {
+	width: 100%;
+	max-width: 800px;
+	overflow-y: visible;
+	overflow-x: hidden;
+	padding: 150px 0;
+	mask-image: linear-gradient(
+	  transparent,
+	  black 20%,
+	  black 80%,
+	  transparent 100%
+	);
+	-webkit-mask-image: linear-gradient(
+	  to right,
+	  transparent,
+	  black 10%,
+	  black 90%,
+	  transparent 100%
+	);
+	position: relative;
+  }
+  
+  .logo_suite {
+	display: flex;
+	gap: 8px;
+	white-space: nowrap;
+  }
+
+  .logo_suite_line {
+	margin-bottom: 8px;
+  }
+
+  .logo_suite_line:last-of-type {
+	margin-bottom: 0;
+  }
